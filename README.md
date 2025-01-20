@@ -1,1 +1,0 @@
-# Number-is-odd-or-even-
